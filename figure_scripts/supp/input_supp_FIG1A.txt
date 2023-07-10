@@ -1,0 +1,3 @@
+GEN	MUESTRA
+Pathogenic	132
+CMS	148
