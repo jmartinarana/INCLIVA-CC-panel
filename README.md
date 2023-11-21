@@ -1,2 +1,2 @@
 # INCLIVA-CC-panel
-This repository contains the pipeline and scripts used to generate the manuscript titled "Sequencing paired tumor DNA and white blood cells improves circulating tumor DNA tracking and detects pathogenic germline variants in localized colon cancer".
+This repository contains the pipeline and scripts used to generate the manuscript titled "Sequencing paired tumor DNA and white blood cells improves circulating tumor DNA tracking and detects pathogenic germline variants in localized colon cancer". The content of this repository was developed in collaboration with the Bioinformatics Unit of the INCLIVA Biomedical Research Institute.
